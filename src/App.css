@@ -229,8 +229,8 @@ body.dark {
 }
 
 .slide-content {
-  text-align: center;
-  color: white;
+  text-align: end;
+  color: white; 
   background: rgba(0, 0, 0, 0.1);
   padding: 2rem 4rem;
   border-radius: 10px;
