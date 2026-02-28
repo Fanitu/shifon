@@ -24,13 +24,13 @@ const TopSales = ({ theme, t }) => {
       id: 3,
       name: 'Blue Traditional',
       price: '17000 Birr',
-      image: family1
+      image: group3
     },
     {
       id: 4,
       name: 'Family Set Special',
       price: '18000 Birr',
-      image: group3
+      image: family1
     }
   ];
 
