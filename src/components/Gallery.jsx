@@ -52,7 +52,7 @@ const Gallery = ({ theme, t }) => {
      ];
 
   return (
-    <section className="gallery">
+    <section className="gallery" id="Gallery">
       <div className="container">
         <h2>{t.gallery}</h2>
         
