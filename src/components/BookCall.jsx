@@ -24,7 +24,7 @@ const BookCall = ({ theme, t }) => {
   };
 
   return (
-    <section className="book-call">
+    <section className="book-call" id="form">
       <div className="container">
         <h2>{t.bookCall}</h2>
         <form className="booking-form" onSubmit={handleSubmit}>
