@@ -122,13 +122,6 @@ function App() {
       
       <main>
         <Hero theme={theme} />
-        
-        <section className="location-bar">
-          <div className="container">
-            <p className="location">{t.location}</p>
-          </div>
-        </section>
-
         <TopSales theme={theme} t={t} />
         
         <WhyChooseUs theme={theme} t={t} />
