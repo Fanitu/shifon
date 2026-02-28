@@ -220,7 +220,7 @@ body.dark {
   background-size: contain;
   background-position: center;
   display: flex;
-  align-items: center;
+  align-items: end;
   justify-content: center;
 }
 
