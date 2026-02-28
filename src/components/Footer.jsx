@@ -20,7 +20,7 @@ const Footer = ({ theme, t }) => {
           <h3>Quick Links</h3>
           <ul>
             <li><a href="#">Home</a></li>
-            <li><a href="#">Top Sales</a></li>
+            <li><a href="#topSales">Top Sales</a></li>
             <li><a href="#">Gallery</a></li>
             <li><a href="#">Book a Call</a></li>
           </ul>
