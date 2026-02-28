@@ -21,8 +21,8 @@ const Footer = ({ theme, t }) => {
           <ul>
             <li><a href="#">Home</a></li>
             <li><a href="#topSales">Top Sales</a></li>
-            <li><a href="#">Gallery</a></li>
-            <li><a href="#">Book a Call</a></li>
+            <li><a href="#Gallery">Gallery</a></li>
+            <li><a href="#form">Book a Call</a></li>
           </ul>
         </div>
         
