@@ -40,7 +40,7 @@ const Footer = ({ theme, t }) => {
           <h3>Contact</h3>
           <ul>
             <li>{t.location}</li>
-            <li>Phone: +251 911 234 567</li>
+            <li>Phone: 0904849143</li>
             <li>Email: info@astiereshifon.com</li>
           </ul>
         </div>
