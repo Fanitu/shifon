@@ -11,25 +11,25 @@ const TopSales = ({ theme, t }) => {
     {
       id: 1,
       name: 'Elegant Gold Shifon',
-      price: '$299',
+      price: '15000 Birr',
       image: image1
     },
     {
       id: 2,
       name: 'Red Celebration Dress',
-      price: '$349',
+      price: '16000 Birr',
       image: group5
     },
     {
       id: 3,
       name: 'Blue Traditional',
-      price: '$279',
+      price: '17000 Birr',
       image: family1
     },
     {
       id: 4,
       name: 'Family Set Special',
-      price: '$599',
+      price: '18000 Birr',
       image: group3
     }
   ];
