@@ -220,7 +220,7 @@ body.dark {
   background-size: contain;
   background-position: center;
   display: flex;
-  align-items: center;
+  align-items: end;
   justify-content: center;
 }
 
@@ -229,7 +229,7 @@ body.dark {
 }
 
 .slide-content {
-  text-align: end;
+  text-align: center;
   color: white; 
   background: rgba(0, 0, 0, 0.1);
   padding: 2rem 4rem;
