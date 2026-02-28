@@ -10,19 +10,19 @@ const TopSales = ({ theme, t }) => {
   const products = [
     {
       id: 1,
-      name: 'Elegant Gold Shifon',
+      name: 'Elegant Blue Shifon',
       price: '15000 Birr',
       image: image1
     },
     {
       id: 2,
-      name: 'Red Celebration Dress',
+      name: 'Flower Celebration Dress',
       price: '16000 Birr',
       image: group5
     },
     {
       id: 3,
-      name: 'Blue Traditional',
+      name: 'Perfect group Traditional',
       price: '17000 Birr',
       image: group3
     },
