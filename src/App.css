@@ -231,7 +231,7 @@ body.dark {
 .slide-content {
   text-align: center;
   color: white;
-  background: rgba(0, 0, 0, 0.9);
+  background: rgba(0, 0, 0, 0.1);
   padding: 2rem 4rem;
   border-radius: 10px;
   backdrop-filter: blur(5px);
