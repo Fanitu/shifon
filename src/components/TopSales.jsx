@@ -35,7 +35,7 @@ const TopSales = ({ theme, t }) => {
   ];
 
   return (
-    <section className="top-sales">
+    <section className="top-sales" id="topSales">
       <div className="container">
         <h2>{t.topSales}</h2>
         <div className="products-grid">
